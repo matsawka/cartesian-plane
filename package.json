@@ -1,0 +1,14 @@
+{
+  "name": "comcast-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "solution": "node app/run.js"
+  },
+  "author": "Mateusz Sawka",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
